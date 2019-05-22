@@ -1,0 +1,10 @@
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\bin\Debug\Practice-01-WindowsFormsApp.exe.config
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\bin\Debug\Practice-01-WindowsFormsApp.exe
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\bin\Debug\Practice-01-WindowsFormsApp.pdb
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice-01-WindowsFormsApp.csprojAssemblyReference.cache
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice_01_WindowsFormsApp.PracticeOneForm.resources
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice_01_WindowsFormsApp.Properties.Resources.resources
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice-01-WindowsFormsApp.csproj.GenerateResource.cache
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice-01-WindowsFormsApp.csproj.CoreCompileInputs.cache
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice-01-WindowsFormsApp.exe
+H:\VS2017\Assignment-SLIP\Assignment 02\Practice-01-WindowsFormsApp\Practice-01-WindowsFormsApp\obj\Debug\Practice-01-WindowsFormsApp.pdb

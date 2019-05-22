@@ -1,0 +1,10 @@
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\bin\Debug\CoffeeShopWindowsFormsApp.exe.config
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\bin\Debug\CoffeeShopWindowsFormsApp.exe
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\bin\Debug\CoffeeShopWindowsFormsApp.pdb
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.csprojAssemblyReference.cache
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.CoffeShopForm.resources
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.Properties.Resources.resources
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.csproj.GenerateResource.cache
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.csproj.CoreCompileInputs.cache
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.exe
+H:\VS2017\Assignment-SLIP\Assignment 02\CoffeeShopWindowsFormsApp\CoffeeShopWindowsFormsApp\obj\Debug\CoffeeShopWindowsFormsApp.pdb
