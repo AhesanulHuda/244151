@@ -132,6 +132,7 @@
             this.ResultLabel.TabIndex = 6;
             this.ResultLabel.Text = "Result ::";
             this.ResultLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.ResultLabel.Click += new System.EventHandler(this.ResultLabel_Click);
             // 
             // ResultTextBox
             // 

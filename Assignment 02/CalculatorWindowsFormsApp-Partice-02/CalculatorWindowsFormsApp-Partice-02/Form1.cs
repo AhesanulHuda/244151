@@ -49,6 +49,14 @@ namespace CalculatorWindowsFormsApp_Partice_02
 
         private void DivideButton_Click(object sender, EventArgs e)
         {
+            firstnumber = Convert.ToDouble(FirstNumberTextBox.Text);
+            secoundNumber = Convert.ToDouble(SecoundNumberTextBox2.Text);
+            result = firstnumber / secoundNumber;
+            ResultTextBox.Text = result.ToString();
+        }
+
+        private void ResultLabel_Click(object sender, EventArgs e)
+        {
 
         }
 

@@ -8,3 +8,13 @@ H:\VS2017\Assignment-SLIP\Assignment 02\CalculatorWindowsFormsApp-Partice-02\Cal
 H:\VS2017\Assignment-SLIP\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.csproj.CoreCompileInputs.cache
 H:\VS2017\Assignment-SLIP\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.exe
 H:\VS2017\Assignment-SLIP\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.pdb
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\bin\Debug\CalculatorWindowsFormsApp-Partice-02.exe.config
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\bin\Debug\CalculatorWindowsFormsApp-Partice-02.exe
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\bin\Debug\CalculatorWindowsFormsApp-Partice-02.pdb
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.csprojAssemblyReference.cache
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp_Partice_02.CalculatorForm.resources
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp_Partice_02.Properties.Resources.resources
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.csproj.GenerateResource.cache
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.csproj.CoreCompileInputs.cache
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.exe
+H:\VS2017\Assignment-SLIP\244151\Assignment 02\CalculatorWindowsFormsApp-Partice-02\CalculatorWindowsFormsApp-Partice-02\obj\Debug\CalculatorWindowsFormsApp-Partice-02.pdb
